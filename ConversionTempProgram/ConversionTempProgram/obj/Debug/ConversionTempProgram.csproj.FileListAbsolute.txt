@@ -1,0 +1,10 @@
+C:\Users\12282\source\repos\ConversionTempProgram\ConversionTempProgram\bin\Debug\ConversionTempProgram.exe.config
+C:\Users\12282\source\repos\ConversionTempProgram\ConversionTempProgram\bin\Debug\ConversionTempProgram.exe
+C:\Users\12282\source\repos\ConversionTempProgram\ConversionTempProgram\bin\Debug\ConversionTempProgram.pdb
+C:\Users\12282\source\repos\ConversionTempProgram\ConversionTempProgram\obj\Debug\ConversionTempProgram.csproj.AssemblyReference.cache
+C:\Users\12282\source\repos\ConversionTempProgram\ConversionTempProgram\obj\Debug\ConversionTempProgram.Form1.resources
+C:\Users\12282\source\repos\ConversionTempProgram\ConversionTempProgram\obj\Debug\ConversionTempProgram.Properties.Resources.resources
+C:\Users\12282\source\repos\ConversionTempProgram\ConversionTempProgram\obj\Debug\ConversionTempProgram.csproj.GenerateResource.cache
+C:\Users\12282\source\repos\ConversionTempProgram\ConversionTempProgram\obj\Debug\ConversionTempProgram.csproj.CoreCompileInputs.cache
+C:\Users\12282\source\repos\ConversionTempProgram\ConversionTempProgram\obj\Debug\ConversionTempProgram.exe
+C:\Users\12282\source\repos\ConversionTempProgram\ConversionTempProgram\obj\Debug\ConversionTempProgram.pdb
